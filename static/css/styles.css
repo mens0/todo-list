@@ -1,0 +1,33 @@
+body {
+    margin-top: 20px;
+}
+
+.add-button {
+    float: right;
+    margin-right: 20px;
+}
+
+.list-button {
+    float: right;
+    margin-right: 20px;
+}
+
+.delete-task-button {
+    margin-left: 10px;
+}
+
+mark.yes {
+    color: green;
+}
+
+mark.no {
+    color: red;
+}
+
+.deadline {
+    color: red;
+}
+
+.task-content {
+    font-weight: bold;
+}
